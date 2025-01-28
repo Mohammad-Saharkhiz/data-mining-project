@@ -29,7 +29,3 @@
 - **منبع**: [https://scipy.org](https://scipy.org)
 - **کاربرد**: رسم دندروگرام و انجام خوشه‌بندی سلسله‌مراتبی با استفاده از توابع `dendrogram` و `linkage`.
 
----
-
-## لینک مخزن پروژه:
-[مشاهده پروژه در گیت‌هاب](https://github.com/yourusername/data-mining-project)
